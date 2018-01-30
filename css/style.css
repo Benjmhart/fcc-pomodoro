@@ -1,0 +1,30 @@
+h1,h3,p{
+  text-align:center;
+}
+body{
+  background-color: #faa6ff;
+  oolor: red;
+  font-family: 'Pacifico', cursive;
+}
+
+#timerdiv{
+  background-color: #7353ba;
+  Border-radius: 1000px;
+}
+
+.bub{
+  
+}
+h1{
+  color: #0f1020;
+}
+h3{
+  color: #0f1020;
+}
+p {
+  color: #0f1020;
+}
+
+#reset{
+  text-align:center;
+}
